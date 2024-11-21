@@ -34,14 +34,14 @@ const About = () => {
               Passionate About Technology & Continuous Learning
             </h3>
             <p className="text-black-500 text-xl text-center md:text-left leading-relaxed">
-              Hello, I&apos;m Deborah, a Passionate and motivated entry-level Fullstack Develiper with a strong enthuasiasm for coding and problem solving. 
-              Although early in my software Development Journey,I'm to building a strong foundation through self learning and hands-on projects.With my skills,
-              I am eager to contribute, grow,and tackle real-world challenges.
+              Hello, I&apos;m Deborah, a Passionate and motivated entry-level Fullstack Developer with a strong enthusiasm for coding and problem solving. 
+              Although early in my software development journey, I&apos;m committed to building a strong foundation through self-learning and hands-on projects. With my skills, 
+              I am eager to contribute, grow, and tackle real-world challenges.
             </p>
 
             <p className="text-black-500 text-xl text-center md:text-left leading-relaxed">
-              I've been refining my skills through personal projects,online courses, community involvement and open-sourse contributions.
-              My goalis to build scalable web and mobile applications that offer meaningful user experiences.I'm exited to keep learning and
+              I&apos;ve been refining my skills through personal projects, online courses, community involvement, and open-source contributions.
+              My goal is to build scalable web and mobile applications that offer meaningful user experiences. I&apos;m excited to keep learning and
               growing in this field while collaborating with other developers to create impactful solutions.
             </p>
 

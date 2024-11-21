@@ -29,8 +29,8 @@ const Hero = () => {
       <div className="md:w-1/2 space-y-6">
         <div className="space-y-6">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 leading-tight">
-            Hello, I&apos;m Deborah <br />
-            <span className="text-5xl md:text-5xl text-blue-900 transition-opacity duration-500">
+          Hello, I&#39;m Deborah <br />
+          <span className="text-5xl md:text-5xl text-blue-900 transition-opacity duration-500">
               {jobTitles[currentTitleIndex]}
             </span>
           </h1>

@@ -19,7 +19,7 @@ const Header = () => {
             className="text-[44px] text-pink-500 font-serif font-bold ml-7"
             style={{ fontFamily: "'Dancing Script', cursive" }}
           >
-            Deborah Cherotich
+            <i>Deborah Cherotich</i>
           </p>
         </div>
 
