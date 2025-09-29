@@ -56,7 +56,7 @@ const Hero = () => {
 
         <a 
           href="/images/Deborah%20Cherotich%20Resume.pdf"
-          download="Deborah Cherotich Resume.pdf" 
+          download="Deborah Barasa Resume.pdf" 
           className="inline-block bg-pink-500 text-white px-8 py-3 rounded-full shadow-lg hover:bg-pink-600 transition duration-300 self-center md:self-start"
         >
           Download CV
@@ -78,3 +78,4 @@ const Hero = () => {
 };
 
 export default Hero;
+
