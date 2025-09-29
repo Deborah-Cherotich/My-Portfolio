@@ -48,11 +48,11 @@ function Contact() {
         {/* Section Title */}
         <div className="text-center mb-16">
           <div className="inline-block relative">
-            <h2 className="text-5xl font-bold text-pink-600 relative z-10">Let's Connect! 💌</h2>
+            <h2 className="text-5xl font-bold text-pink-600 relative z-10">Let&apos;s Connect! 💌</h2>
             <div className="absolute -bottom-2 left-0 w-full h-3 bg-pink-200 rounded-full z-0"></div>
           </div>
           <p className="text-gray-600 mt-4 text-xl max-w-2xl mx-auto">
-            Let's create something amazing together! I'm always open to discussing new opportunities and creative ideas.
+            Let&apos;s create something amazing together! I&apos;m always open to discussing new opportunities and creative ideas.
           </p>
           <div className="flex justify-center space-x-2 mt-4">
             <div className="w-3 h-3 bg-pink-400 rounded-full animate-bounce"></div>
@@ -165,7 +165,7 @@ function Contact() {
               </div>
               <h3 className="text-2xl font-bold text-gray-800 mb-2">Join My Newsletter! ✨</h3>
               <p className="text-gray-600">
-                Stay updated on my latest projects, blog posts, and portfolio updates. Don't miss out on new content and opportunities!
+                Stay updated on my latest projects, blog posts, and portfolio updates. Don&apos;t miss out on new content and opportunities!
               </p>
             </div>
 
@@ -202,7 +202,7 @@ function Contact() {
         <div className="text-center mt-12">
           <div className="inline-flex items-center space-x-4 text-gray-600">
             <div className="w-8 h-1 bg-pink-300 rounded-full"></div>
-            <span className="text-lg">Let's build something incredible together! 🚀</span>
+            <span className="text-lg">Let&apos;s build something incredible together! 🚀</span>
             <div className="w-8 h-1 bg-pink-300 rounded-full"></div>
           </div>
         </div>

@@ -238,7 +238,7 @@ const Header = () => {
             href="#contact"
             className="bg-gradient-to-r from-pink-500 to-pink-600 text-white px-8 py-3 rounded-full shadow-xl hover:shadow-2xl hover:scale-105 hover:from-pink-600 hover:to-pink-700 transition-all duration-300 font-medium transform hover:-translate-y-1"
           >
-            Let's talk ✨
+            Let&apos;s talk ✨
           </a>
         </div>
       </div>

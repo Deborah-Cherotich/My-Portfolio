@@ -218,14 +218,14 @@ const Hero = () => {
           {/* Greeting and Name */}
           <div className="space-y-4">
             <h1 className="text-5xl md:text-6xl font-bold text-gray-800 leading-tight">
-              Hello, I'm <span className="text-pink-500">Deborah</span>
+              Hello, I&apos;m <span className="text-pink-500">Deborah</span>
             </h1>
             
             {/* Animated Job Title */}
             <div className="h-16 flex items-center">
               <div className="relative">
                 <span className="text-3xl md:text-4xl font-bold text-gray-700">
-                  I'm a{' '}
+                  I&apos;m a{' '}
                   <span className="bg-gradient-to-r from-pink-500 to-blue-600 bg-clip-text text-transparent transition-all duration-500">
                     {jobTitles[currentTitleIndex]}
                   </span>

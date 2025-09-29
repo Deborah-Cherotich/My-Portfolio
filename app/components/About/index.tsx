@@ -192,11 +192,11 @@ const About = () => {
               
               <div className="space-y-6">
                 <p className="text-gray-700 text-lg md:text-xl leading-relaxed">
-                  I'm <span className="font-semibold text-pink-600">Deborah Barasa</span>, a passionate fullstack developer dedicated to building innovative digital solutions. My journey combines technical expertise with creative problem-solving.
+                  I&apos;m <span className="font-semibold text-pink-600">Deborah Barasa</span>, a passionate fullstack developer dedicated to building innovative digital solutions. My journey combines technical expertise with creative problem-solving.
                 </p>
                 
                 <p className="text-gray-700 text-lg md:text-xl leading-relaxed">
-                  I specialize in creating <span className="font-semibold text-blue-600">scalable applications</span> that deliver exceptional user experiences. Through continuous learning and hands-on projects, I've mastered modern development practices.
+                  I specialize in creating <span className="font-semibold text-blue-600">scalable applications</span> that deliver exceptional user experiences. Through continuous learning and hands-on projects, I&apos;ve mastered modern development practices.
                 </p>
               </div>
             </div>

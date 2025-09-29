@@ -178,7 +178,7 @@ const Projects = () => {
             <div className="absolute -bottom-2 left-0 w-full h-3 bg-pink-200 rounded-full z-0"></div>
           </div>
           <p className="text-gray-600 mt-4 text-xl max-w-2xl mx-auto">
-            Here are some of the projects I've built with passion and creativity! Each one tells a unique story ✨
+            Here are some of the projects I&apos;ve built with passion and creativity! Each one tells a unique story ✨
           </p>
           <div className="flex justify-center space-x-2 mt-4">
             <div className="w-3 h-3 bg-pink-400 rounded-full animate-bounce"></div>
