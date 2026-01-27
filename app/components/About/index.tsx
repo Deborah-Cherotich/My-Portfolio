@@ -141,13 +141,13 @@
 // export default About;
 
 import React from 'react';
-import Image from 'next/image'; 
+import Image from 'next/image';
 
 const About = () => {
   return (
     <section id="about" className="py-20 bg-gradient-to-br from-white to-blue-50/30" style={{ fontFamily: "'Nunito', sans-serif" }}>
       <div className="container mx-auto px-4">
-        
+
         {/* Section Title */}
         <div className="text-center mb-16">
           <div className="inline-block relative mb-6">
@@ -176,7 +176,7 @@ const About = () => {
                   />
                 </div>
               </div>
-              
+
               {/* Floating elements */}
               <div className="absolute -top-8 -right-8 w-20 h-20 bg-yellow-400/20 rounded-full blur-xl group-hover:scale-125 transition-transform duration-500"></div>
               <div className="absolute -bottom-6 -left-6 w-16 h-16 bg-blue-400/20 rounded-full blur-lg group-hover:scale-125 transition-transform duration-500"></div>
@@ -189,14 +189,14 @@ const About = () => {
               <h3 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6 leading-tight">
                 Crafting Digital <span className="bg-gradient-to-r from-pink-500 to-blue-600 bg-clip-text text-transparent">Experiences</span>
               </h3>
-              
+
               <div className="space-y-6">
                 <p className="text-gray-700 text-lg md:text-xl leading-relaxed">
-                  I&apos;m <span className="font-semibold text-pink-600">Deborah Barasa</span>, a passionate fullstack developer dedicated to building innovative digital solutions. My journey combines technical expertise with creative problem-solving.
+                  I'm <span className="font-semibold text-pink-600">Deborah Barasa</span>, a passionate fullstack developer dedicated to building innovative digital solutions. My journey combines technical expertise with creative problem-solving.
                 </p>
-                
+
                 <p className="text-gray-700 text-lg md:text-xl leading-relaxed">
-                  I specialize in creating <span className="font-semibold text-blue-600">scalable applications</span> that deliver exceptional user experiences. Through continuous learning and hands-on projects, I&apos;ve mastered modern development practices.
+                  I specialize in creating <span className="font-semibold text-blue-600">scalable applications</span> that deliver exceptional user experiences. Through continuous learning and hands-on projects, I've mastered modern development practices.
                 </p>
               </div>
             </div>
@@ -222,7 +222,7 @@ const About = () => {
                 <span>Get In Touch</span>
                 <span className="ml-2 group-hover:translate-x-1 transition-transform duration-300">→</span>
               </a>
-              
+
               <a href="#projects" className="group inline-flex items-center justify-center border-2 border-gray-300 text-gray-700 px-6 py-3 rounded-xl hover:border-pink-400 hover:text-pink-600 hover:bg-pink-50 transition-all duration-300 font-semibold">
                 <span>View Work</span>
               </a>

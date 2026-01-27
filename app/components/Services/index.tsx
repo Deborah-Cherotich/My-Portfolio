@@ -196,7 +196,7 @@ const Services = () => {
             <div className="absolute -bottom-2 left-0 w-full h-3 bg-pink-200 rounded-full z-0"></div>
           </div>
           <p className="text-gray-600 mt-4 text-xl max-w-2xl mx-auto">
-            Click &quot;Learn More&quot; to discover how I can help bring your ideas to life with creative solutions ✨
+            Click "Learn More" to discover how I can help bring your ideas to life with creative solutions ✨
           </p>
           <div className="flex justify-center space-x-2 mt-4">
             <div className="w-3 h-3 bg-pink-400 rounded-full animate-bounce"></div>
@@ -220,23 +220,23 @@ const Services = () => {
                   </div>
                 </div>
               </div>
-              
+
               {/* Title */}
               <h3 className="text-2xl font-bold mb-4 text-gray-800 group-hover:text-white transition-colors duration-300">
                 {service.title}
               </h3>
-              
+
               {/* Description */}
               <p className="text-gray-600 text-lg mb-6 group-hover:text-white/90 transition-colors duration-300">
                 {expandedIndex === index ? service.details : service.shortDescription}
               </p>
-              
+
               {/* Learn More Button */}
               <button
                 onClick={() => toggleDetails(index)}
                 className="flex justify-center items-center mx-auto text-pink-500 hover:text-pink-600 group-hover:text-white group-hover:bg-white/20 px-6 py-2 rounded-full transition-all duration-300 font-semibold"
               >
-                {expandedIndex === index ? "Show Less" : "Learn More"} 
+                {expandedIndex === index ? "Show Less" : "Learn More"}
                 <FaArrowRight className={`ml-2 transition-transform duration-300 ${expandedIndex === index ? 'rotate-90' : 'group-hover:translate-x-1'}`} />
               </button>
             </div>
