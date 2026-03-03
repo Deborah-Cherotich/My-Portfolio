@@ -173,23 +173,10 @@ const Header = () => {
   return (
     <header className="bg-gradient-to-r from-pink-50 to-white pt-8 shadow-lg border-b border-pink-100">
       <div className="container flex justify-between items-center relative px-6 md:px-16">
-        {/* Name with dancing dots */}
-        <div className="flex items-center space-x-4">
-          {/* Dancing Dots */}
-          <div className="flex flex-col space-y-1">
-            <div className="flex space-x-1">
-              <div className="w-2 h-2 bg-pink-400 rounded-full animate-bounce" style={{ animationDelay: '0s' }}></div>
-              <div className="w-2 h-2 bg-purple-400 rounded-full animate-bounce" style={{ animationDelay: '0.1s' }}></div>
-            </div>
-            <div className="flex space-x-1">
-              <div className="w-2 h-2 bg-blue-400 rounded-full animate-bounce" style={{ animationDelay: '0.2s' }}></div>
-              <div className="w-2 h-2 bg-pink-400 rounded-full animate-bounce" style={{ animationDelay: '0.3s' }}></div>
-            </div>
-          </div>
-          
-          {/* Name */}
+        {/* Name with enhanced styling */}
+        <div className="mr-8">
           <p
-            className="text-[44px] bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text text-transparent font-serif font-bold drop-shadow-sm hover:scale-105 transition-transform duration-300"
+            className="text-[44px] bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text text-transparent font-serif font-bold ml-4 md:ml-7 drop-shadow-sm hover:scale-105 transition-transform duration-300"
             style={{ fontFamily: "'Dancing Script', cursive" }}
           >
             <i>Deborah Barasa</i>
